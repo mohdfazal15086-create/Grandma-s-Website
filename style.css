@@ -1,0 +1,27 @@
+ *{
+      padding:0px;
+      margin:0px;
+   }
+   .header-section{
+     background-color: #5cb8b8;
+     padding: 30px;
+     text-align: center;
+     color: #8e56c2;
+   }
+   .work-section{
+    background-color: hsla(180, 20%, 21%, 0.43);
+    padding: 130px;
+    .card-section{
+        background-color: white;
+        padding: 30px;
+        margin: 8px;
+        border-radius:18px ;
+
+    }
+   }
+   footer{
+    padding: 30px;
+    background-color: hsl(180, 55%, 18%);
+    text-align: center;
+    color: white;
+   }
